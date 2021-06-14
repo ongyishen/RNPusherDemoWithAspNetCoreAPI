@@ -14,7 +14,7 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 Please register an account with free plan at [Pusher](https://pusher.com/) & create a channel
 
 Get the App Keys of your channel
-<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/PusherAppKey.PNG?raw=true"  width="400" height="400" />
+<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/PusherAppKey.PNG?raw=true"   />
 
 
 ### Backend Development Environment
@@ -28,16 +28,16 @@ Visual Studio 2019
 
 ### Configure Backend Pusher App Keys
 
-<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/ServerConfig.PNG?raw=true"  width="400" height="400" />
+<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/ServerConfig.PNG?raw=true"   />
 
 
 ### Configure React Native Pusher App Keys
 
-<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/RNConfig.PNG?raw=true"  width="400" height="400" />
+<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/RNConfig.PNG?raw=true"   />
 
 ### Run Asp.Net Core API & Startup Ngrok from Visual Studio 2019
 
-<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/SampleNgrok.gif?raw=true"  width="400" height="400" />
+<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/SampleNgrok.gif?raw=true"   />
 
 ### Start React Native
 
@@ -52,7 +52,7 @@ npm start
 ```
 
 ## Screenshot
-<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/Sample.gif?raw=true" width="400" height="400" />
+<img src="https://github.com/ongyishen/RNPusherDemoWithAspNetCoreAPI/blob/main/Sample.gif?raw=true"  />
 
 ### Nuget Package
 
